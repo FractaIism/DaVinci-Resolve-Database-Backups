@@ -1,0 +1,44 @@
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/07/25 Sat 23:59:39 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+47 folders, 160 files, 64574286 bytes (62 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_07_25_235939.zip
+
+Add new data to archive: 47 folders, 160 files, 64574286 bytes (62 MiB)
+
+
+Files read from disk: 160
+Archive size: 22859810 bytes (22 MiB)
+Everything is Ok
+ 
+
+Pushing to GitHub:
+
+^C 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/07/26 Sun 00:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+47 folders, 160 files, 64574286 bytes (62 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_07_26_000000.7z
+
+Add new data to archive: 47 folders, 160 files, 64574286 bytes (62 MiB)
+
+
+Files read from disk: 160
+Archive size: 11138651 bytes (11 MiB)
+Everything is Ok
