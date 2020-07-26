@@ -46,7 +46,7 @@ echo %formatted_datetime_2%: Error during DaVinci Resolve database backup, check
 
 
 REM // check if database has changed
-REM // if it hasn't changed, REMove the backup file to save space
+REM // if it hasn't changed, remove the backup file to save space
 
 REM // file count
 set fc=0
@@ -54,7 +54,6 @@ set fc=0
 REM // use !var! in loops to expand variables at execution time
 for %%f in ("Automatic Backups\*.*") do (
   set /a fc=fc+1
-  echo !fc! %%f
   if !fc! == 1 (
     set z0=%%f
   ) else (
@@ -73,6 +72,7 @@ if %fc% EQU 1 (
   REM // only one backup present
   goto push_GitHub
 ) else (
+  REM // compare this backup with the last one
   fc "%z0%" "%z1%"
   if errorlevel 1 (
     REM // files differ
@@ -82,7 +82,7 @@ if %fc% EQU 1 (
     (
       del "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%"
       echo.
-      echo No changes in database since last backup. New backup file REMoved.
+      echo No changes in database since last backup. New backup file removed.
     ) >> drdb_backup_log.txt 2>&1
   )
 )

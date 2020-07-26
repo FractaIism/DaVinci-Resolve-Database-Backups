@@ -1,4 +1,4 @@
-# DaVinci-Resolve-Database-Backups
+# DaVinci Resolve Database Backups
 A batch script to backup DaVinci Resolve's default disk database. (for Windows only)
 
 ### Requirements:
