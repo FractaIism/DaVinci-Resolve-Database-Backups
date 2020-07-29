@@ -73,7 +73,7 @@ if %fc% EQU 1 (
   goto push_GitHub
 ) else (
   REM // compare this backup with the last one
-  fc "%z0%" "%z1%"
+  fc /b "%z0%" "%z1%" > nul
   if errorlevel 1 (
     REM // files differ
     goto push_GitHub
