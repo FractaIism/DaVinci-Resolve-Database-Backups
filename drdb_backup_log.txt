@@ -725,3 +725,49 @@ Add new data to archive: 47 folders, 189 files, 64783423 bytes (62 MiB)
 Files read from disk: 189
 Archive size: 11210905 bytes (11 MiB)
 Everything is Ok
+ 
+
+Pushing to GitHub:
+
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master 7d422ef] 
+ 2 files changed, 27 insertions(+)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_07_31_180001.7z
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+Everything up-to-date
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/07/31 Fri 20:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+47 folders, 189 files, 64783417 bytes (62 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_07_31_200000.7z
+
+Add new data to archive: 47 folders, 189 files, 64783417 bytes (62 MiB)
+
+
+WARNING: The process cannot access the file because it is being used by another process.
+C:\Users\Eloy Wu\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Resolve Disk Database\..\Resolve Disk Database\Resolve Projects\Users\guest\Projects\Parkour\20200703 還敢不回家啊冰鳥\Project.db
+
+
+Files read from disk: 189
+Archive size: 10803055 bytes (11 MiB)
+
+WARNINGS for files:
+
+C:\Users\Eloy Wu\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Resolve Disk Database\..\Resolve Disk Database\Resolve Projects\Users\guest\Projects\Parkour\20200703 還敢不回家啊冰鳥\Project.db : The process cannot access the file because it is being used by another process.
+----------------
+WARNING: Cannot open 1 file
+ 
+
+Pushing to GitHub:
+
