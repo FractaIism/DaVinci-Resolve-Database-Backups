@@ -1033,3 +1033,32 @@ Everything is Ok
 
 Pushing to GitHub:
 
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master a65b4b5] 
+ 2 files changed, 33 insertions(+)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_08_03_160000.7z
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+Everything up-to-date
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/03 Mon 18:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+47 folders, 201 files, 64858976 bytes (62 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_03_180000.7z
+
+Add new data to archive: 47 folders, 201 files, 64858976 bytes (62 MiB)
+
+
+Files read from disk: 201
+Archive size: 11212474 bytes (11 MiB)
+Everything is Ok
