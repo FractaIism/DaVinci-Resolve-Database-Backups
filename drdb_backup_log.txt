@@ -1436,3 +1436,40 @@ Add new data to archive: 52 folders, 214 files, 69487173 bytes (67 MiB)
 Files read from disk: 214
 Archive size: 12302140 bytes (12 MiB)
 Everything is Ok
+ 
+
+Pushing to GitHub:
+
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master 30a8a9d] 
+ 2 files changed, 29 insertions(+)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_08_05_180000.7z
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+Everything up-to-date
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/05 Wed 20:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 214 files, 69487173 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_05_200000.7z
+
+Add new data to archive: 52 folders, 214 files, 69487173 bytes (67 MiB)
+
+
+Files read from disk: 214
+Archive size: 12324876 bytes (12 MiB)
+Everything is Ok
+ 
+
+Pushing to GitHub:
+
