@@ -1539,3 +1539,164 @@ Everything is Ok
 
 Pushing to GitHub:
 
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master 65cd3bd] 
+ 2 files changed, 33 insertions(+)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_08_06_000001.7z
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+Everything up-to-date
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 02:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_020000.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 04:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_040000.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 06:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_060000.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 18:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_180000.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 20:00:01 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_200001.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/06 Thu 22:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 213 files, 69486826 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_06_220000.7z
+
+Add new data to archive: 52 folders, 213 files, 69486826 bytes (67 MiB)
+
+
+Files read from disk: 213
+Archive size: 12326497 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/07 Fri 00:00:01 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 216 files, 69505656 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_07_000001.7z
+
+Add new data to archive: 52 folders, 216 files, 69505656 bytes (67 MiB)
+
+
+Files read from disk: 216
+Archive size: 12328034 bytes (12 MiB)
+Everything is Ok
