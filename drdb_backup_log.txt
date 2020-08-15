@@ -1891,3 +1891,448 @@ Everything is Ok
 
 Pushing to GitHub:
 
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master df0dbd8] 
+ 2 files changed, 37 insertions(+)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_08_07_200000.7z
+fatal: the remote end hung up unexpectedly
+fatal: the remote end hung up unexpectedly
+error: RPC failed; curl 56 OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054
+Everything up-to-date
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/07 Fri 22:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 215 files, 69505197 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_07_220000.7z
+
+Add new data to archive: 52 folders, 215 files, 69505197 bytes (67 MiB)
+
+
+Files read from disk: 215
+Archive size: 12311383 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 00:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 215 files, 69505197 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_08_000000.7z
+
+Add new data to archive: 52 folders, 215 files, 69505197 bytes (67 MiB)
+
+
+Files read from disk: 215
+Archive size: 12311383 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 18:00:01 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 215 files, 69505197 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_08_180001.7z
+
+Add new data to archive: 52 folders, 215 files, 69505197 bytes (67 MiB)
+
+
+Files read from disk: 215
+Archive size: 12311383 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 20:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 215 files, 69505197 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_08_200000.7z
+
+Add new data to archive: 52 folders, 215 files, 69505197 bytes (67 MiB)
+
+
+Files read from disk: 215
+Archive size: 12311383 bytes (12 MiB)
+Everything is Ok
+
+No changes in database since last backup. New backup file removed.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 20:27:18 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 20:27:39 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/08 Sat 22:00:01 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/09 Sun 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/09 Sun 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/09 Sun 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/09 Sun 22:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 18:00:01 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 20:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/10 Mon 22:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 02:00:01 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 06:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 08:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 10:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 18:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 20:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/11 Tue 22:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/12 Wed 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/12 Wed 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/12 Wed 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/12 Wed 06:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/12 Wed 22:00:01 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/13 Thu 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/13 Thu 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/13 Thu 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/13 Thu 22:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/14 Fri 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/14 Fri 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/14 Fri 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/14 Fri 20:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/14 Fri 22:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 02:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 04:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 06:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 08:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/15 Sat 10:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 215 files, 69505196 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_15_100000.7z
+
+Add new data to archive: 52 folders, 215 files, 69505196 bytes (67 MiB)
+
+
+Files read from disk: 215
+Archive size: 12311297 bytes (12 MiB)
+Everything is Ok

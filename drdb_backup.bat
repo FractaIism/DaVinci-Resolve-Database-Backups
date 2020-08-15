@@ -40,7 +40,7 @@ REM // log file separator
 echo === %formatted_datetime_2% === >> drdb_backup_log.txt
 
 REM // compress database, create notification file at D: in case of error
-7za a "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%" "%db_path%\Resolve Disk Database" >> drdb_backup_log.txt 2>&1 || ^
+7za a "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%" "%db_path%\Resolve Disk Database" > drdb_temp_log.txt 2>&1 || ^
 echo %formatted_datetime_2%: Error during DaVinci Resolve database backup, check the logs at %~dp0drdb_backup_log.txt >> "D:\DaVinci Resolve backup error notification.txt"
 
 
@@ -82,8 +82,9 @@ if %fc% EQU 1 (
     (
       del "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%"
       echo.
-      echo No changes in database since last backup. New backup file removed.
+      echo No changes in database since last backup.
     ) >> drdb_backup_log.txt 2>&1
+    goto cleanup
   )
 )
 
@@ -91,6 +92,7 @@ exit
 REM // end of script
 
 :push_GitHub
+type drdb_temp_log.txt >> drdb_backup_log.txt
 (
   echo. & echo.
   echo Pushing to GitHub:
@@ -99,3 +101,7 @@ REM // end of script
   git commit --allow-empty-message -m ""
   git push
 ) >> drdb_backup_log.txt 2>&1
+goto cleanup
+
+:cleanup
+del drdb_temp_log.txt
