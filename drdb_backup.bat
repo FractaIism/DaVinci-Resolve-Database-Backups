@@ -40,7 +40,7 @@ REM // log file separator
 echo === %formatted_datetime_2% === >> drdb_backup_log.txt
 
 REM // compress database, create notification file at D: in case of error
-7za a "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%" "%db_path%\Resolve Disk Database" > drdb_temp_log.txt 2>&1 || ^
+7za a -mmt8 -mx9 "Automatic Backups\DRDB_Backup_%formatted_datetime%.%ext%" "%db_path%\Resolve Disk Database" > drdb_temp_log.txt 2>&1 || ^
 echo %formatted_datetime_2%: Error during DaVinci Resolve database backup, check the logs at %~dp0drdb_backup_log.txt >> "D:\DaVinci Resolve backup error notification.txt"
 
 
