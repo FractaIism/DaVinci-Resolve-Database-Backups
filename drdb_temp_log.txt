@@ -4,7 +4,7 @@
 Scanning the drive:
 53 folders, 226 files, 70120999 bytes (67 MiB)
 
-Creating archive: Automatic Backups\DRDB_Backup_2020_08_21_220000.7z
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_22_000000.7z
 
 Add new data to archive: 53 folders, 226 files, 70120999 bytes (67 MiB)
 
