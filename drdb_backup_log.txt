@@ -2908,3 +2908,34 @@ Add new data to archive: 52 folders, 218 files, 69529014 bytes (67 MiB)
 Files read from disk: 218
 Archive size: 10976480 bytes (11 MiB)
 Everything is Ok
+ 
+
+Pushing to GitHub:
+
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master ac1a94a] 
+ 3 files changed, 71 insertions(+), 4 deletions(-)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_08_21_120000.7z
+To https://github.com/FractaIism/DaVinci-Resolve-Database-Backups.git
+   b9967e4..ac1a94a  master -> master
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/08/21 Fri 14:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+52 folders, 218 files, 69529014 bytes (67 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_08_21_140000.7z
+
+Add new data to archive: 52 folders, 218 files, 69529014 bytes (67 MiB)
+
+
+Files read from disk: 218
+Archive size: 10976495 bytes (11 MiB)
+Everything is Ok
