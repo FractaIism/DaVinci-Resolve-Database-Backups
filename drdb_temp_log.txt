@@ -2,13 +2,13 @@
 7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
 
 Scanning the drive:
-56 folders, 261 files, 71858149 bytes (69 MiB)
+58 folders, 264 files, 73362730 bytes (70 MiB)
 
-Creating archive: Automatic Backups\DRDB_Backup_2020_10_29_120000.7z
+Creating archive: Automatic Backups\DRDB_Backup_2020_10_30_000000.7z
 
-Add new data to archive: 56 folders, 261 files, 71858149 bytes (69 MiB)
+Add new data to archive: 58 folders, 264 files, 73362730 bytes (70 MiB)
 
 
-Files read from disk: 261
-Archive size: 11414979 bytes (11 MiB)
+Files read from disk: 264
+Archive size: 11549041 bytes (12 MiB)
 Everything is Ok
