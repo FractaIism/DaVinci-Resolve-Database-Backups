@@ -4206,3 +4206,46 @@ Everything is Ok
 
 Pushing to GitHub:
 
+warning: LF will be replaced by CRLF in drdb_backup_log.txt.
+The file will have its original line endings in your working directory
+[master c2bd94e] 
+ 3 files changed, 40 insertions(+), 5 deletions(-)
+ create mode 100644 Automatic Backups/DRDB_Backup_2020_10_30_120000.7z
+To https://github.com/FractaIism/DaVinci-Resolve-Database-Backups.git
+   5a22719..c2bd94e  master -> master
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/10/31 Sat 00:00:00 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/11/01 Sun 00:00:01 === 
+
+No changes in database since last backup.
+ 
+
+------------------------------------------------------------------------
+ 
+
+=== 2020/11/02 Mon 00:00:00 === 
+
+7-Zip (a) 19.00 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2019-02-21
+
+Scanning the drive:
+60 folders, 265 files, 74517148 bytes (72 MiB)
+
+Creating archive: Automatic Backups\DRDB_Backup_2020_11_02_000000.7z
+
+Add new data to archive: 60 folders, 265 files, 74517148 bytes (72 MiB)
+
+
+Files read from disk: 265
+Archive size: 11592285 bytes (12 MiB)
+Everything is Ok
