@@ -4,11 +4,11 @@
 Scanning the drive:
 86 folders, 305 files, 96403443 bytes (92 MiB)
 
-Creating archive: Automatic Backups\DRDB_Backup_2021_03_09_120001.7z
+Creating archive: Automatic Backups\DRDB_Backup_2021_03_10_000000.7z
 
 Add new data to archive: 86 folders, 305 files, 96403443 bytes (92 MiB)
 
 
 Files read from disk: 305
-Archive size: 13668090 bytes (14 MiB)
+Archive size: 13668092 bytes (14 MiB)
 Everything is Ok
